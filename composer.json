@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": ">=7.1.0",
-        "ardian/laravel-forum": "3.0 - 4.2"
+        "ardianferdianto/laravel-forum": "3.0 - 4.2"
     },
     "autoload": {
         "psr-4": {
