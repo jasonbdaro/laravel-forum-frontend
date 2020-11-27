@@ -1,12 +1,12 @@
 {
-    "name": "riari/laravel-forum-frontend",
+    "name": "ardian/laravel-forum-frontend",
     "description": "A frontend for riari/laravel-forum providing views written with Bootstrap 3",
     "keywords": ["laravel", "laravel-4", "laravel-5", "forum", "discuss", "frontend"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Riari",
-            "email": "riari@teamteatime.net"
+            "name": "Ardian",
+            "email": "ardianferdianto@gmail.com"
         }
     ],
     "require": {
