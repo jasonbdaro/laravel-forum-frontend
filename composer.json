@@ -1,17 +1,17 @@
 {
-    "name": "ardianferdianto/laravel-forum-frontend",
+    "name": "jasonbdaro/laravel-forum-frontend",
     "description": "A frontend for riari/laravel-forum providing views written with Bootstrap 3",
     "keywords": ["laravel", "laravel-4", "laravel-5", "forum", "discuss", "frontend"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Ardian Ferdianto",
-            "email": "ardianferdianto@gmail.com"
+            "name": "Jason Daro",
+            "email": "jasonbdaro@gmail.com"
         }
     ],
     "require": {
-        "php": ">=7.1.0",
-        "ardianferdianto/laravel-forum": "3.0 - 4.2"
+        "php": ">=8.1.0",
+        "jasonbdaro/laravel-forum": "3.0 - 4.2"
     },
     "autoload": {
         "psr-4": {
